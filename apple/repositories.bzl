@@ -69,6 +69,6 @@ def rules_apple_line_dependencies():
     _maybe(
         git_repository,
         name = "com_github_ob_rules_ios",
-        commit = "7c0759d784a3f66032038a51c1c144e528c5d7a8",
-        remote = "https://github.com/ob/rules_ios.git",
+        commit = "87edac7101b6b65c0f54213c472200a78940965f",
+        remote = "https://github.com/bazel-ios/rules_ios",
     )
